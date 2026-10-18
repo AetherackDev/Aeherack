@@ -1,6 +1,6 @@
 {
-  "version": "1.22.1",
+  "version": "1.22.2",
   "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/aetherack-manager.zip",
-  "sha256": "4c03e4d352da1e480cbfd9e626430c782fe6b22c27099152409865626b5445e1",
-  "notes": "🆕 บอกสถานะรออัปเดตสคริปต์ + ปุ่มอัปเดตเลย · สคริปต์ 5.56.0"
+  "sha256": "4c8571cbdae00f789737a21881608945bdcc9c3812785ec2e94e68ad7f91e271",
+  "notes": "🔄 โปรแกรมรีเฟรชจอที่สคริปต์เก่าให้เอง"
 }
