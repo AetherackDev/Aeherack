@@ -1,6 +1,6 @@
 {
-  "version": "1.20.0",
+  "version": "1.20.1",
   "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/aetherack-manager.zip",
-  "sha256": "55d7c8549a0d85a2e0b3fe1798101f59925cf10cd38561be1f7a3f0eee43ab17",
-  "notes": "⚔️ เลือกสกิลที่ Auto ใช้ + ลำดับ จากโปรแกรม · สคริปต์ 5.50.0"
+  "sha256": "2c418cf72715b84eb9cec162395af280c0860c41051083dbb31a7a32f7e1a8ed",
+  "notes": "🌀 อ่านสกิล/สกิล Auto ให้เองไม่ต้องกด · เปิดหน้าสกิลด้วย K · สคริปต์ 5.51.0"
 }
