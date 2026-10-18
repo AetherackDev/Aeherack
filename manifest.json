@@ -1,6 +1,6 @@
 {
-  "version": "1.27.1",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.27.1.zip",
-  "sha256": "0977409406774274c8d7a5db583b9a6fedd9dd2e9f01b9c08c883e679d23877f",
-  "notes": "🎓 ป้ายเปลี่ยนอาชีพได้"
+  "version": "1.27.2",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.27.2.zip",
+  "sha256": "23c63663ed92263b1ddcb1801677cec313167a867b031f914e4ef07ae6650e5d",
+  "notes": "🎓 กดป้ายแล้วไปหา Valkyrie"
 }
