@@ -1,6 +1,6 @@
 {
-  "version": "1.23.2",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/aetherack-manager.zip",
-  "sha256": "6318057d2189de9a4fe719d2ecbc7261356f7e09ff346591f6c21016114e1e48",
-  "notes": "🌀 แก้อัพสกิล (คลิกโหนด + ยืนยัน) · อ่านเงื่อนไขไม่คลิกแล้ว · สคริปต์ 5.62.0"
+  "version": "1.23.3",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.23.3.zip",
+  "sha256": "8fe93a55b45af1d4408ba6a960c3d79a3313233a6e9f260fdefd7539f0581d77",
+  "notes": "🛠️ แก้ SHA-256 ไม่ตรงตอนอัปเดต (ไฟล์ตามเวอร์ชัน) · รวมของ 1.23.2: แก้อัพสกิล"
 }
