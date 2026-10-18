@@ -1,6 +1,6 @@
 {
-  "version": "1.19.0",
+  "version": "1.20.0",
   "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/aetherack-manager.zip",
-  "sha256": "7ae3c51f159c52c48c58366725e80fe31794eed916ceb57f77708620cad794ef",
-  "notes": "🌀 ระบบสกิล: อ่านสกิลพร้อมรูป · ตั้งลำดับ/เลเวลเป้า · อัพอัตโนมัติ · สคริปต์ 5.49.0"
+  "sha256": "55d7c8549a0d85a2e0b3fe1798101f59925cf10cd38561be1f7a3f0eee43ab17",
+  "notes": "⚔️ เลือกสกิลที่ Auto ใช้ + ลำดับ จากโปรแกรม · สคริปต์ 5.50.0"
 }
