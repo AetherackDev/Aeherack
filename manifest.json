@@ -1,6 +1,6 @@
 {
-  "version": "1.26.0",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.26.0.zip",
-  "sha256": "8a276df87b000f4b26d7bc20061fc9470ac86caecfafd8558365e6245d6a2cd2",
-  "notes": "🏪 ตลาดกลาง (อ่านอย่างเดียว): ซิงค์ราคา ค้นหา ประวัติราคา และจับตาราคา"
+  "version": "1.26.1",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.26.1.zip",
+  "sha256": "3d352b57cd13c29587637be895640ebd5dd30262c53b096b3494f164aa734279",
+  "notes": "🔍 ตรวจ: ดึงจอเกมของโปรไฟล์ขึ้นมาด้วย"
 }
