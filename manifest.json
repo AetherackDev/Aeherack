@@ -1,6 +1,6 @@
 {
-  "version": "1.22.4",
+  "version": "1.22.5",
   "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/aetherack-manager.zip",
-  "sha256": "be65d4228ade483140cb753007503c9c3d22faf8fd2f310de600b44f40a0e7f3",
-  "notes": "⚔️ แก้เปิดหน้าต่างตั้งค่า Auto ให้ถูกตัว · สคริปต์ 5.58.0"
+  "sha256": "5443857a8cb99696cc50d04236f7b06ff615f1baa308ab1d3e264c2d700462de",
+  "notes": "⠿ ลากเรียงลำดับสกิล/สกิล Auto แทนปุ่มขึ้นลง"
 }
