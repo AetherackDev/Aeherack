@@ -1,6 +1,6 @@
 {
-  "version": "1.32.1",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.32.1.zip",
-  "sha256": "b9a77282bfeb0ba710bf46ecbda9e7ddd761d28f2298e7b3c24409c599d53f1e",
-  "notes": "🛒 แก้กดยืนยันซื้อ"
+  "version": "1.32.2",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.32.2.zip",
+  "sha256": "e81e96416b8f762ff237f0c2e209612f991a4cb49adcacdd9797878017f92054",
+  "notes": "📦 ซื้อแล้วรับของให้แน่นอน"
 }
