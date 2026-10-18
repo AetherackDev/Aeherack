@@ -1,6 +1,6 @@
 {
-  "version": "1.26.5",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.26.5.zip",
-  "sha256": "9354dc4d3b1481a04fcb24d1f93f5255807e79d33d7fa3e12d092a7ec7f3d740",
-  "notes": "💸 zeny ไม่พอวาร์ป → เดินแทน"
+  "version": "1.27.0",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.27.0.zip",
+  "sha256": "fcbd25f58a3e2cd335308cff26e4a0da28636c7f847b55974e5dd97cba2dd0b7",
+  "notes": "💰 ขายวัตถุดิบให้ NPC (กดสั่งเอง)"
 }
