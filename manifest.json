@@ -1,6 +1,6 @@
 {
-  "version": "1.15.0",
+  "version": "1.15.1",
   "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/aetherack-manager.zip",
-  "sha256": "df31eb547f8900ae79669af3a69e80f9bdd09cd161e6cac8815885891eb505f7",
-  "notes": "แจ้งเวอร์ชันใหม่เองบนหัวโปรแกรม กดปุ่มเดียวติดตั้ง"
+  "sha256": "e8e8e7dd07eaf1ef4508cab8a3b0910c9f017a298872e712fee066e53dde2965",
+  "notes": "ปุ่มเดียว: กดตรวจอัปเดต เจอแล้วติดตั้งให้เลย"
 }
