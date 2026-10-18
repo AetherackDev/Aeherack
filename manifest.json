@@ -1,6 +1,6 @@
 {
-  "version": "1.31.1",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.31.1.zip",
-  "sha256": "ad47d8ace6f8252c114a2d2b9fa7dfa89941ef8bdde7417147e5c954f29b1f13",
-  "notes": "🏪 ตลาดแบบใหม่ + รอโหลดเสร็จ"
+  "version": "1.32.0",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.32.0.zip",
+  "sha256": "003b88e31c280fbd7056424ec7c3f9019c75d1c1bf8e8595d4fc757852cf0cb9",
+  "notes": "🛒 ซื้อจากตลาด + ⚔️ อ่านสกิล Auto ครบ"
 }
