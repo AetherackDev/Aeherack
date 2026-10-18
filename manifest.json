@@ -1,6 +1,6 @@
 {
-  "version": "1.26.4",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.26.4.zip",
-  "sha256": "af917a4ee4e579863ce5c86326d98b281ed8a69aa423375049d09adae157f330",
-  "notes": "🏪 เปิดตลาดแล้วพับเมนูคืน"
+  "version": "1.26.5",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.26.5.zip",
+  "sha256": "9354dc4d3b1481a04fcb24d1f93f5255807e79d33d7fa3e12d092a7ec7f3d740",
+  "notes": "💸 zeny ไม่พอวาร์ป → เดินแทน"
 }
