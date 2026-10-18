@@ -1,6 +1,6 @@
 {
-  "version": "1.22.2",
+  "version": "1.22.3",
   "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/aetherack-manager.zip",
-  "sha256": "4c8571cbdae00f789737a21881608945bdcc9c3812785ec2e94e68ad7f91e271",
-  "notes": "🔄 โปรแกรมรีเฟรชจอที่สคริปต์เก่าให้เอง"
+  "sha256": "0a56a665285185070f7decc22a112fc9f35709b5195ba26a2db1c15eb2b9c730",
+  "notes": "⚔️ แก้อ่านสกิลของ Auto (หาจากชื่อสกิล) · สคริปต์ 5.57.0"
 }
