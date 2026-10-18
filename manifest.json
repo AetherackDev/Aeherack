@@ -1,6 +1,6 @@
 {
-  "version": "1.25.2",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.25.2.zip",
-  "sha256": "ce1ccbc33e7d364c304e87a1dce0b704f85b4545f96aca46cd35950bcb4735ad",
-  "notes": "📊 แยกหลอด Base EXP / Job EXP · สคริปต์ 5.71.0"
+  "version": "1.26.0",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.26.0.zip",
+  "sha256": "8a276df87b000f4b26d7bc20061fc9470ac86caecfafd8558365e6245d6a2cd2",
+  "notes": "🏪 ตลาดกลาง (อ่านอย่างเดียว): ซิงค์ราคา ค้นหา ประวัติราคา และจับตาราคา"
 }
