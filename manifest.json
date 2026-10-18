@@ -1,6 +1,6 @@
 {
-  "version": "1.24.0",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.24.0.zip",
-  "sha256": "99bfd355e2762d075c226972773230742a84a862d3c431ebcc8fd0e4eb84be26",
-  "notes": "↩️ กลับแมพเดิม (เกณฑ์น้ำหนัก + เหตุผล) · 🗑️ ตั้งค่าทิ้งขยะจากโปรแกรม + แชร์ · สคริปต์ 5.68.0"
+  "version": "1.24.1",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.24.1.zip",
+  "sha256": "85912d88311caa8de2ac3028ab0a0733140461bce180a2d2db5343f8633421a3",
+  "notes": "📂 พับส่วนฟีเจอร์/การ์ดตัวละคร · ปุ่มตั้งไอเทมทิ้งขยะ · จัดช่องออฟ"
 }
