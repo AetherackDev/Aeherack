@@ -1,6 +1,6 @@
 {
-  "version": "1.21.0",
+  "version": "1.22.0",
   "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/aetherack-manager.zip",
-  "sha256": "74a0f92e0b7b03d685ea0a754105667d5638e7d0b33d1591c4ba48ac4488fd98",
-  "notes": "🌀 สกิลแยกแท็บคลาส · อัพด้วยปุ่ม + · ทำตามลำดับข้ามตัวที่ยังอัพไม่ได้ · สคริปต์ 5.54.0"
+  "sha256": "7e8a056931c664b08ee8dc05ae9742a159f63c7c534b0096bc9dd7a9db858fdb",
+  "notes": "🔗 อ่านเงื่อนไขสกิลจากเกม + ใส่สกิลที่ต้องอัพก่อนให้เอง · สคริปต์ 5.55.0"
 }
