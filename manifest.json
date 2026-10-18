@@ -1,6 +1,6 @@
 {
-  "version": "1.25.1",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.25.1.zip",
-  "sha256": "27e364af64c8da0df01853de355f7e1f56f90a19d8850c1ee3687543d5bd24c8",
-  "notes": "🗑️ รูปไอเทมในรายการทิ้งขยะ · ซ่อนวัตถุดิบ · สคริปต์ 5.70.0"
+  "version": "1.25.2",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.25.2.zip",
+  "sha256": "ce1ccbc33e7d364c304e87a1dce0b704f85b4545f96aca46cd35950bcb4735ad",
+  "notes": "📊 แยกหลอด Base EXP / Job EXP · สคริปต์ 5.71.0"
 }
