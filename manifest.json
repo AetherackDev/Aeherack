@@ -1,0 +1,6 @@
+{
+  "version": "1.14.1",
+  "url": "aetherack-manager.zip",
+  "sha256": "592451fcb9eda7e1849a4ccf5538d0b0d6548d2a5af490f7d37407e06d1d01a8",
+  "notes": "ตั้งค่าอัปเดตผ่าน GitHub ได้แล้ว · ไฟล์ config.default.json ไม่ถูกเขียนทับตอนอัปเดต"
+}
