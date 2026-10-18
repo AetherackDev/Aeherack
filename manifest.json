@@ -1,6 +1,6 @@
 {
-  "version": "1.31.0",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.31.0.zip",
-  "sha256": "4c9a8884ffc785bca5444ce36be3b5c9f1d7fce2eb0e3ff6e1f63c26a918bb05",
-  "notes": "🎯 เปลี่ยนอาชีพอัตโนมัติ"
+  "version": "1.31.1",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.31.1.zip",
+  "sha256": "ad47d8ace6f8252c114a2d2b9fa7dfa89941ef8bdde7417147e5c954f29b1f13",
+  "notes": "🏪 ตลาดแบบใหม่ + รอโหลดเสร็จ"
 }
