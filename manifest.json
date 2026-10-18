@@ -1,6 +1,6 @@
 {
-  "version": "1.28.1",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.28.1.zip",
-  "sha256": "4d453cb7e2326afdb1c8293f9b54d96cc604d2c278efeab58210c9102ff0ced7",
-  "notes": "🌀 สกิลตามอาชีพ + แก้บันทึกอัตโนมัติ"
+  "version": "1.29.0",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.29.0.zip",
+  "sha256": "6e67c76703a0c50aae7d1f5ad8ce05c6a801de002a422051d1d0f92d55bbac8c",
+  "notes": "🎓 ข้อมูลอาชีพทั้งเกม"
 }
