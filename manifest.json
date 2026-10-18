@@ -1,6 +1,6 @@
 {
-  "version": "1.17.0",
+  "version": "1.18.0",
   "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/aetherack-manager.zip",
-  "sha256": "300563737038a3d21220a471157d22bf0a292f0aea4b16735e7c9e8212d80ba4",
-  "notes": "📋 คัดลอกสคริปต์ Tampermonkey ไปทุกโปรไฟล์ด้วยปุ่มเดียว · สคริปต์ 5.47.0"
+  "sha256": "a7dc40c1e9cf5aedf2dd4f9621f1ae7ba2c77a026bdcb8a08e4a0f70b9bbbe66",
+  "notes": "ยืนยันก่อนเปิดทุก Chrome · จัดหน้าต่างดึงขึ้นหน้า · สเตตัสอุปกรณ์ · เลือกทิ้งหลายชิ้น · เครื่องหมายอันตราย · ซิงค์โซนสองทาง · สคริปต์ 5.48.0"
 }
