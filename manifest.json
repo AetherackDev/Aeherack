@@ -1,6 +1,6 @@
 {
-  "version": "1.16.0",
+  "version": "1.16.1",
   "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/aetherack-manager.zip",
-  "sha256": "4277cdc982e9ef5fd1d9ecdb9ae84f1443b2a104b34aafa57d070cd7e3fa6eb7",
-  "notes": "📊 หน้าสถิติ (Profit รายตัว/โปรไฟล์/ทั้งหมด) · 🎯 แก้โซนฟาร์มจากโปรแกรม · ⠿ ลากเรียงสเตตัส · แก้ไอเทมขึ้น ? · แจ้งเตือนอัปเดตพาไปหน้าอัปเดต · สคริปต์ 5.46.0"
+  "sha256": "ec2392dabec7a1f2ec2710a3801ef938ea65581a538bdad57975370a053ece21",
+  "notes": "📜 ปุ่ม Changelog ข้างชื่อโปรแกรม · แก้ v1.16.0 ที่ใส่สคริปต์ตัวเก่า (สคริปต์ 5.46.0 ตัวเต็ม: สถิติ + โซนฟาร์ม)"
 }
