@@ -1,6 +1,6 @@
 {
-  "version": "1.23.3",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.23.3.zip",
-  "sha256": "8fe93a55b45af1d4408ba6a960c3d79a3313233a6e9f260fdefd7539f0581d77",
-  "notes": "🛠️ แก้ SHA-256 ไม่ตรงตอนอัปเดต (ไฟล์ตามเวอร์ชัน) · รวมของ 1.23.2: แก้อัพสกิล"
+  "version": "1.23.4",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.23.4.zip",
+  "sha256": "8803037287213c48d630c974ae45d4271a4c6770d0473e386bfc6c00e1d0b58e",
+  "notes": "🌀 แก้อัพสกิลแต้มหาย (ทำทีละงาน) · กดยืนยัน .skillw-apply · สคริปต์ 5.63.0"
 }
