@@ -1,6 +1,6 @@
 {
-  "version": "1.29.0",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.29.0.zip",
-  "sha256": "6e67c76703a0c50aae7d1f5ad8ce05c6a801de002a422051d1d0f92d55bbac8c",
-  "notes": "🎓 ข้อมูลอาชีพทั้งเกม"
+  "version": "1.30.0",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.30.0.zip",
+  "sha256": "49e431eb22abe2cdaffe4a87b2ed7964dfef6282f41c1d1086cba8b9363ed393",
+  "notes": "⚙️ ตั้งค่า Auto ของเกมทุกแท็บ"
 }
