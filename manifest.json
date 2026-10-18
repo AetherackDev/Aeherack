@@ -1,6 +1,6 @@
 {
-  "version": "1.30.1",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.30.1.zip",
-  "sha256": "d32e99113185994fb00a87bc11b552aa16d2b9961dc550ca3975c5dc033c1034",
-  "notes": "💰 ขายของ: Butterfly กลับเมืองก่อน"
+  "version": "1.30.2",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.30.2.zip",
+  "sha256": "83c5952a14943d0ff60891e58c4851481bc8381e76ad2fb442b2ba27d22840ce",
+  "notes": "💾 บันทึกอัตโนมัติ + 🔗 สกิลเงื่อนไขจากข้อมูลเกม"
 }
