@@ -1,6 +1,6 @@
 {
-  "version": "1.15.2",
+  "version": "1.16.0",
   "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/aetherack-manager.zip",
-  "sha256": "23cda6f2ae215fe4b08cc6166170ffa4d90f90ec64b3f7e1841fd4c038fbbb30",
-  "notes": "แก้: ถ้าโปรแกรมตัวเก่ายังเปิดค้าง เปิดใหม่แล้วจะปิดตัวเก่าให้เอง"
+  "sha256": "4277cdc982e9ef5fd1d9ecdb9ae84f1443b2a104b34aafa57d070cd7e3fa6eb7",
+  "notes": "📊 หน้าสถิติ (Profit รายตัว/โปรไฟล์/ทั้งหมด) · 🎯 แก้โซนฟาร์มจากโปรแกรม · ⠿ ลากเรียงสเตตัส · แก้ไอเทมขึ้น ? · แจ้งเตือนอัปเดตพาไปหน้าอัปเดต · สคริปต์ 5.46.0"
 }
