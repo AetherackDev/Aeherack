@@ -1,6 +1,6 @@
 {
-  "version": "1.22.0",
+  "version": "1.22.1",
   "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/aetherack-manager.zip",
-  "sha256": "7e8a056931c664b08ee8dc05ae9742a159f63c7c534b0096bc9dd7a9db858fdb",
-  "notes": "🔗 อ่านเงื่อนไขสกิลจากเกม + ใส่สกิลที่ต้องอัพก่อนให้เอง · สคริปต์ 5.55.0"
+  "sha256": "4c03e4d352da1e480cbfd9e626430c782fe6b22c27099152409865626b5445e1",
+  "notes": "🆕 บอกสถานะรออัปเดตสคริปต์ + ปุ่มอัปเดตเลย · สคริปต์ 5.56.0"
 }
