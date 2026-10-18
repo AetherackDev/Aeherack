@@ -1,6 +1,6 @@
 {
-  "version": "1.16.1",
+  "version": "1.17.0",
   "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/aetherack-manager.zip",
-  "sha256": "ec2392dabec7a1f2ec2710a3801ef938ea65581a538bdad57975370a053ece21",
-  "notes": "📜 ปุ่ม Changelog ข้างชื่อโปรแกรม · แก้ v1.16.0 ที่ใส่สคริปต์ตัวเก่า (สคริปต์ 5.46.0 ตัวเต็ม: สถิติ + โซนฟาร์ม)"
+  "sha256": "300563737038a3d21220a471157d22bf0a292f0aea4b16735e7c9e8212d80ba4",
+  "notes": "📋 คัดลอกสคริปต์ Tampermonkey ไปทุกโปรไฟล์ด้วยปุ่มเดียว · สคริปต์ 5.47.0"
 }
