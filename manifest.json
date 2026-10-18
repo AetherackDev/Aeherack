@@ -1,6 +1,6 @@
 {
-  "version": "1.23.0",
+  "version": "1.23.1",
   "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/aetherack-manager.zip",
-  "sha256": "9adfcc2c0335de254c4300ea41b5a91e2c8f824fc83c8b1f72f0d745229e25f3",
-  "notes": "💾 บันทึกอัตโนมัติ + Enter · กดยืนยันแต้มสกิลให้เอง · แก้แท็บคลาส · สคริปต์ 5.60.0"
+  "sha256": "cf019723194921d12051196750a66ce0f9d3d4df0413bb80794339bf21a1993c",
+  "notes": "🛠️ แก้สคริปต์ไม่อัปเดต (บีบอัดส่ง) · บอกเหตุผลรออัปเดต · กันแต้มสกิลคืน · สคริปต์ 5.61.0"
 }
