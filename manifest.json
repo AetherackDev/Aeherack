@@ -1,6 +1,6 @@
 {
-  "version": "1.25.0",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.25.0.zip",
-  "sha256": "b10c5e17f5a8d5ba8a0d7c3f607ce8394eabc0279d2d5bef100b86807da25320",
-  "notes": "🧑 การ์ดตัวละครใหม่ (รูป · Premium · สถานะด้านขวา · พับแล้วยังเห็นเลือด) · สคริปต์ 5.69.0"
+  "version": "1.25.1",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.25.1.zip",
+  "sha256": "27e364af64c8da0df01853de355f7e1f56f90a19d8850c1ee3687543d5bd24c8",
+  "notes": "🗑️ รูปไอเทมในรายการทิ้งขยะ · ซ่อนวัตถุดิบ · สคริปต์ 5.70.0"
 }
