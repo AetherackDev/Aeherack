@@ -1,6 +1,6 @@
 {
-  "version": "1.20.2",
+  "version": "1.20.3",
   "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/aetherack-manager.zip",
-  "sha256": "a09dc03bc88984331d7bd309e406e3ec65a796074ba95512317d70e1b3135a92",
-  "notes": "🖼️ รูปสกิลในตารางสกิล/สกิล Auto · สคริปต์ 5.52.0"
+  "sha256": "6d59c1a6aeec880a9fca03906635b87ea7f3f0e7dbfcd9ce31ee4acabf69c38c",
+  "notes": "🌀 อ่านหน้าสกิลตามโครงจริงของเกม (รูป/ชื่อ/เลเวล) · สคริปต์ 5.53.0"
 }
