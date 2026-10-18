@@ -1,6 +1,6 @@
 {
-  "version": "1.23.7",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.23.7.zip",
-  "sha256": "ca0300e1ade2bcb703e1a91ffccde7df70a29cdfe719a9966590ad56384f0025",
-  "notes": "🌀 กดยืนยันอัพสกิลครบ 2 ชั้น (กล่องถามซ้ำ) · สคริปต์ 5.66.0"
+  "version": "1.23.8",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.23.8.zip",
+  "sha256": "10b48519f1b7b6e14d7c093c0ec31134fd6b331a7d2a63caf0a5b350f7f9bb02",
+  "notes": "🔄 ตรวจอัปเดตผ่าน GitHub API (เห็นทันที ไม่ติดแคช) · รวม 1.23.7: กดยืนยันสกิล 2 ชั้น"
 }
