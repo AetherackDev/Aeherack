@@ -1,6 +1,6 @@
 {
-  "version": "1.30.3",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.30.3.zip",
-  "sha256": "0e7d370f7178e4afc9648b25d360b58109d396dc0c168f549b059bd3f704d229",
-  "notes": "🖥️ ดึงทุกจอ / ย่อทุกจอ"
+  "version": "1.30.4",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.30.4.zip",
+  "sha256": "3c7fac347e4f77a3c9b7b52a187e95bf943b99bc7637fa81d00e61bb5b0ef459",
+  "notes": "🔗 เงื่อนไขสกิลข้ามแท็บ"
 }
