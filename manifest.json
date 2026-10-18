@@ -1,6 +1,6 @@
 {
-  "version": "1.26.1",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.26.1.zip",
-  "sha256": "3d352b57cd13c29587637be895640ebd5dd30262c53b096b3494f164aa734279",
-  "notes": "🔍 ตรวจ: ดึงจอเกมของโปรไฟล์ขึ้นมาด้วย"
+  "version": "1.26.2",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.26.2.zip",
+  "sha256": "770351b21acc89b84ca4902c14b580774c0edec78031a1ef2b56db7868a30a88",
+  "notes": "🌀 รองรับแผนที่โลกแบบแยกภูมิภาค"
 }
