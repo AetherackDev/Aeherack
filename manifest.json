@@ -1,6 +1,6 @@
 {
-  "version": "1.23.9",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.23.9.zip",
-  "sha256": "e76f8219633aaa3a6a6379fc96869d78e59518a749cb524ad72a6b39b6885845",
-  "notes": "🗑️ แก้ทิ้งอุปกรณ์หลายชิ้นไม่ออก · สคริปต์ 5.67.0"
+  "version": "1.24.0",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.24.0.zip",
+  "sha256": "99bfd355e2762d075c226972773230742a84a862d3c431ebcc8fd0e4eb84be26",
+  "notes": "↩️ กลับแมพเดิม (เกณฑ์น้ำหนัก + เหตุผล) · 🗑️ ตั้งค่าทิ้งขยะจากโปรแกรม + แชร์ · สคริปต์ 5.68.0"
 }
