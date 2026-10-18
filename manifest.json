@@ -1,6 +1,6 @@
 {
-  "version": "1.30.2",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.30.2.zip",
-  "sha256": "83c5952a14943d0ff60891e58c4851481bc8381e76ad2fb442b2ba27d22840ce",
-  "notes": "💾 บันทึกอัตโนมัติ + 🔗 สกิลเงื่อนไขจากข้อมูลเกม"
+  "version": "1.30.3",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.30.3.zip",
+  "sha256": "0e7d370f7178e4afc9648b25d360b58109d396dc0c168f549b059bd3f704d229",
+  "notes": "🖥️ ดึงทุกจอ / ย่อทุกจอ"
 }
