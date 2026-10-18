@@ -1,6 +1,6 @@
 {
-  "version": "1.23.8",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.23.8.zip",
-  "sha256": "10b48519f1b7b6e14d7c093c0ec31134fd6b331a7d2a63caf0a5b350f7f9bb02",
-  "notes": "🔄 ตรวจอัปเดตผ่าน GitHub API (เห็นทันที ไม่ติดแคช) · รวม 1.23.7: กดยืนยันสกิล 2 ชั้น"
+  "version": "1.23.9",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.23.9.zip",
+  "sha256": "e76f8219633aaa3a6a6379fc96869d78e59518a749cb524ad72a6b39b6885845",
+  "notes": "🗑️ แก้ทิ้งอุปกรณ์หลายชิ้นไม่ออก · สคริปต์ 5.67.0"
 }
