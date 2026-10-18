@@ -1,6 +1,6 @@
 {
-  "version": "1.22.3",
+  "version": "1.22.4",
   "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/aetherack-manager.zip",
-  "sha256": "0a56a665285185070f7decc22a112fc9f35709b5195ba26a2db1c15eb2b9c730",
-  "notes": "⚔️ แก้อ่านสกิลของ Auto (หาจากชื่อสกิล) · สคริปต์ 5.57.0"
+  "sha256": "be65d4228ade483140cb753007503c9c3d22faf8fd2f310de600b44f40a0e7f3",
+  "notes": "⚔️ แก้เปิดหน้าต่างตั้งค่า Auto ให้ถูกตัว · สคริปต์ 5.58.0"
 }
