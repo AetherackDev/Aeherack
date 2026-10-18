@@ -1,6 +1,6 @@
 {
-  "version": "1.28.0",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.28.0.zip",
-  "sha256": "1d1e7d3b182487f28ce970bca78b0d3c424702c5225a4a9eeef3bb189acaa50e",
-  "notes": "🎨 ไอคอนจากเกมแทนอิโมจิ"
+  "version": "1.28.1",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.28.1.zip",
+  "sha256": "4d453cb7e2326afdb1c8293f9b54d96cc604d2c278efeab58210c9102ff0ced7",
+  "notes": "🌀 สกิลตามอาชีพ + แก้บันทึกอัตโนมัติ"
 }
