@@ -1,6 +1,6 @@
 {
-  "version": "1.23.5",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.23.5.zip",
-  "sha256": "c1b9fb130272ac5a10ae575cdbe00bb106df9ce51a1df7a8dfc7ceed3e40b662",
-  "notes": "🌀 กดเฉพาะปุ่ม + ไม่คลิกรูปสกิล · ยืนยันทีละสกิล · สคริปต์ 5.64.0"
+  "version": "1.23.6",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.23.6.zip",
+  "sha256": "78aaf16f0c47dfcb0dcb937628d6c94fa6d05a435194e59e8bedd10755509c5c",
+  "notes": "⚔️ แก้ชื่อสกิล Auto (ไม่ใช่ป้ายประเภท) · ตัดรูปออก · สคริปต์ 5.65.0"
 }
