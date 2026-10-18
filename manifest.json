@@ -1,6 +1,6 @@
 {
-  "version": "1.22.5",
+  "version": "1.23.0",
   "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/aetherack-manager.zip",
-  "sha256": "5443857a8cb99696cc50d04236f7b06ff615f1baa308ab1d3e264c2d700462de",
-  "notes": "⠿ ลากเรียงลำดับสกิล/สกิล Auto แทนปุ่มขึ้นลง"
+  "sha256": "9adfcc2c0335de254c4300ea41b5a91e2c8f824fc83c8b1f72f0d745229e25f3",
+  "notes": "💾 บันทึกอัตโนมัติ + Enter · กดยืนยันแต้มสกิลให้เอง · แก้แท็บคลาส · สคริปต์ 5.60.0"
 }
