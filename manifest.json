@@ -1,6 +1,6 @@
 {
-  "version": "1.33.2",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.33.2.zip",
-  "sha256": "b33081d04cacbdeab04a68ec173c959f91da9e1ecfb30153e43eeb1599f25956",
-  "notes": "👆 กดการ์ดในหน้าโปรไฟล์เพื่อกาง"
+  "version": "1.33.3",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.33.3.zip",
+  "sha256": "cea8a353ca78a58fc5202ad14c4c86f2e0efd8fc5c1ececfc3767636ca8fcc89",
+  "notes": "📶 ตั้งเกณฑ์เตือน Ping"
 }
