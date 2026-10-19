@@ -1,6 +1,6 @@
 {
-  "version": "1.32.6",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.32.6.zip",
-  "sha256": "59524e9c27ce18e71a9f08a269d4eb282fe75281b40fc21c09b4afd6b6c5c98d",
-  "notes": "📍 บอกว่าสคริปต์กำลังทำอะไร"
+  "version": "1.33.0",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.33.0.zip",
+  "sha256": "717af410a5178809179d36d798935998d12aeacdfa89b074e4c90d338852abc1",
+  "notes": "🔗 ตั้งลิงก์ Sheets/Discord จาก Manager"
 }
