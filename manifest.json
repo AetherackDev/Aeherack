@@ -1,6 +1,6 @@
 {
-  "version": "1.32.5",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.32.5.zip",
-  "sha256": "ff5d954a1149353339f8ec790764ba7c669c045f6bdc5555eebd1e240daf6df2",
-  "notes": "🔔 เสียงเตือนต่างกันแต่ละแบบ"
+  "version": "1.32.6",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.32.6.zip",
+  "sha256": "59524e9c27ce18e71a9f08a269d4eb282fe75281b40fc21c09b4afd6b6c5c98d",
+  "notes": "📍 บอกว่าสคริปต์กำลังทำอะไร"
 }
