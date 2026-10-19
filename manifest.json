@@ -1,6 +1,6 @@
 {
-  "version": "1.34.0",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.34.0.zip",
-  "sha256": "1c4431538e1f7baf50ddba92d82dc14bd928f8dcaf6246fdfbd83ddb62152daa",
-  "notes": "สคริปต์ 5.96.0: เติมลูกธนูอัตโนมัติ"
+  "version": "1.34.1",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.34.1.zip",
+  "sha256": "a6912e4df610ab3eecc743282c02a7d4e27ef587811e04c119f42634b4b03ad2",
+  "notes": "Manager 1.34.1: ปุ่มปรับขนาด/รีเซ็ตการจัดหน้าต่าง"
 }
