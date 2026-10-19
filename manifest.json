@@ -1,6 +1,6 @@
 {
-  "version": "1.33.3",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.33.3.zip",
-  "sha256": "cea8a353ca78a58fc5202ad14c4c86f2e0efd8fc5c1ececfc3767636ca8fcc89",
-  "notes": "📶 ตั้งเกณฑ์เตือน Ping"
+  "version": "1.33.4",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.33.4.zip",
+  "sha256": "a2bdebe2dcdfd323009b7159a23b5733577499e9559a7ff890072a2263ee9635",
+  "notes": "สคริปต์ 5.95.1: แถบสถานะไม่โชว์จุดซ้ำ"
 }
