@@ -1,6 +1,6 @@
 {
-  "version": "1.33.1",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.33.1.zip",
-  "sha256": "3199822b33a33df6dfe882be36199460ac8c82d940964dcd6ff75640b7f95c9b",
-  "notes": "👆 กดการ์ดเปิดได้ + อัปเดตทั้งโปรไฟล์"
+  "version": "1.33.2",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.33.2.zip",
+  "sha256": "b33081d04cacbdeab04a68ec173c959f91da9e1ecfb30153e43eeb1599f25956",
+  "notes": "👆 กดการ์ดในหน้าโปรไฟล์เพื่อกาง"
 }
