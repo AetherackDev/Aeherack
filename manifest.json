@@ -1,6 +1,6 @@
 {
-  "version": "1.32.4",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.32.4.zip",
-  "sha256": "5832a2a09ee29c2d4fe06fdd973804f9e5793a36bea8aae38cec02b4c0b86941",
-  "notes": "🌀 แก้หาแมพบนแผนที่โลก"
+  "version": "1.32.5",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.32.5.zip",
+  "sha256": "ff5d954a1149353339f8ec790764ba7c669c045f6bdc5555eebd1e240daf6df2",
+  "notes": "🔔 เสียงเตือนต่างกันแต่ละแบบ"
 }
