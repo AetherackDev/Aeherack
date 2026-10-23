@@ -1,6 +1,6 @@
 {
-  "version": "1.44.0",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.44.0.zip",
-  "sha256": "15df931bd2b89c684777383871e1a7a3d722c2560434ea7af0d1e2f0efa91638",
-  "notes": "Manager 1.44.0 / สคริปต์ 5.98.0: รวมทีมข้ามแมพด้วย Butterfly + Alice, ปุ่มติดตามเปลี่ยนสีทันที"
+  "version": "1.44.1",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.44.1.zip",
+  "sha256": "e9a30b68556b1d08c1a88f0a0fe2d6a169f00f57a90118409840768581fd65c1",
+  "notes": "Manager 1.44.1 / สคริปต์ 5.98.1: ตายแล้วกลับไปหาหัวหน้าทันที"
 }
