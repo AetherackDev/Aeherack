@@ -1,6 +1,6 @@
 {
-  "version": "1.45.4",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.45.4.zip",
-  "sha256": "4683630a46b4f875d088603f999d440bb028ef2d7988fb5d4c4b9ed26a0e2ab9",
-  "notes": "🗑️ ลบโปรไฟล์จากหน้าหลักได้ · แก้ตารางโปรไฟล์ในตั้งค่าไม่รวมของเครื่องอื่น"
+  "version": "1.46.0",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.46.0.zip",
+  "sha256": "aa00683f8648b7ca4d2e3f7d4aac618d21615e4411c07ee7a95aa0073517d4d8",
+  "notes": "🔔 บันทึกเหตุการณ์ (ตาย / Captcha / กลับแมพเดิมสำเร็จ ฯลฯ) ในหน้าบันทึกของ Manager · สคริปต์ 5.98.2"
 }
