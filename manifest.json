@@ -1,6 +1,6 @@
 {
-  "version": "1.43.4",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.43.4.zip",
-  "sha256": "bf69937bbeaec2bb6c4a4fccfb4413a0d2e69dea5dde7ce5ec0747cf26057890",
-  "notes": "Manager 1.43.4: Rich Presence ข้อความสั้นลง + ปุ่มเปิดเว็บเกม"
+  "version": "1.43.5",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.43.5.zip",
+  "sha256": "4582819d992b5c04dd8176c341277ab61bee2c9f2bac0ed59368c960b5d36cca",
+  "notes": "Manager 1.43.5 / สคริปต์ 5.97.6: แก้วาร์ปดินแดนรูน (เลือกแท็บภูมิภาค)"
 }
