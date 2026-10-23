@@ -1,6 +1,6 @@
 {
-  "version": "1.43.3",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.43.3.zip",
-  "sha256": "240352acb811fb31bc07457c20fd3e28d2073d2e5a549b1d518eb2ee4c546a34",
-  "notes": "Manager 1.43.3: คำเตือนโหมดแอป"
+  "version": "1.43.4",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.43.4.zip",
+  "sha256": "bf69937bbeaec2bb6c4a4fccfb4413a0d2e69dea5dde7ce5ec0747cf26057890",
+  "notes": "Manager 1.43.4: Rich Presence ข้อความสั้นลง + ปุ่มเปิดเว็บเกม"
 }
