@@ -1,6 +1,6 @@
 {
-  "version": "1.42.0",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.42.0.zip",
-  "sha256": "3fc2735bbcf4acc3dd53dcb75f45a5342d6e644a320d7e4bb161fea15687fe14",
-  "notes": "Manager 1.42.0 / สคริปต์ 5.97.5: ราคา Token เรียลไทม์"
+  "version": "1.43.0",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.43.0.zip",
+  "sha256": "783f8f05ec2a0fcab9edac067ada72633098345e14b230d7f36d347ccc4585a4",
+  "notes": "Manager 1.43.0: จัดหน้าต่าง (แจ้งขนาดจริง), โหมดแอป, เลือก Browser, ตรวจ+ซ่อม, Discord Rich Presence"
 }
