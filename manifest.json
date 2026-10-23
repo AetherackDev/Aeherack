@@ -1,6 +1,6 @@
 {
-  "version": "1.46.1",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.46.1.zip",
-  "sha256": "a7f7c22bffcb520d6a89600d95d73103b53a001590397e54b631d096b75f99b0",
-  "notes": "🛡️ กัน Manager ล่ม + ตัวเฝ้าเปิดใหม่ให้เอง · ตัดไฟล์ manager.log ไม่ให้โตเกิน"
+  "version": "1.46.2",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.46.2.zip",
+  "sha256": "0d850be16300f3e45ae28cf6b58e7d1457aa22691141044520643bd0fdbbdda0",
+  "notes": "🌐 ปิดหน้าต่างแปลภาษา · 📱 มือถือไม่ถามบันทึกรหัสตอนใส่ PIN"
 }
