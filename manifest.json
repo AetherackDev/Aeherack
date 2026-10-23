@@ -1,6 +1,6 @@
 {
-  "version": "1.44.1",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.44.1.zip",
-  "sha256": "e9a30b68556b1d08c1a88f0a0fe2d6a169f00f57a90118409840768581fd65c1",
-  "notes": "Manager 1.44.1 / สคริปต์ 5.98.1: ตายแล้วกลับไปหาหัวหน้าทันที"
+  "version": "1.44.2",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.44.2.zip",
+  "sha256": "e0056a7d3eff0c1d6d18693aafb652acd94dac9c528bdbd2be87d6fa7a67ca1d",
+  "notes": "Manager 1.44.2: Rich Presence ตัวเลขแบบสั้น"
 }
