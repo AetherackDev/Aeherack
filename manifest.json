@@ -1,6 +1,6 @@
 {
-  "version": "1.45.3",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.45.3.zip",
-  "sha256": "8373d2457ff2672ad45e52a5bd955b578394f92615397bd63600c3c1bbad1b5d",
-  "notes": "⚙️ หน้าตั้งค่าใหม่ แบ่งหมวด มีเมนูด้านซ้าย การ์ดเป็นระเบียบ"
+  "version": "1.45.4",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.45.4.zip",
+  "sha256": "4683630a46b4f875d088603f999d440bb028ef2d7988fb5d4c4b9ed26a0e2ab9",
+  "notes": "🗑️ ลบโปรไฟล์จากหน้าหลักได้ · แก้ตารางโปรไฟล์ในตั้งค่าไม่รวมของเครื่องอื่น"
 }
