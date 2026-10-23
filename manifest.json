@@ -1,6 +1,6 @@
 {
-  "version": "1.43.5",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.43.5.zip",
-  "sha256": "4582819d992b5c04dd8176c341277ab61bee2c9f2bac0ed59368c960b5d36cca",
-  "notes": "Manager 1.43.5 / สคริปต์ 5.97.6: แก้วาร์ปดินแดนรูน (เลือกแท็บภูมิภาค)"
+  "version": "1.43.6",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.43.6.zip",
+  "sha256": "9db942b37645aab3d33b776efe3dc48cb2557617d5a6a6262b340c46486d9258",
+  "notes": "Manager 1.43.6 / สคริปต์ 5.97.7: ปาร์ตี้ — ปุ่มขึ้นทุกตัว + หมวดในสคริปต์"
 }
