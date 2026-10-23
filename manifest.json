@@ -1,6 +1,6 @@
 {
-  "version": "1.44.2",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.44.2.zip",
-  "sha256": "e0056a7d3eff0c1d6d18693aafb652acd94dac9c528bdbd2be87d6fa7a67ca1d",
-  "notes": "Manager 1.44.2: Rich Presence ตัวเลขแบบสั้น"
+  "version": "1.45.0",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.45.0.zip",
+  "sha256": "e5a8170effa9cec0dea747bdb1c7c8eb0c9bbdaa87c5f621f59ef482ce539604",
+  "notes": "📱 ใช้จากมือถือ (Android/iPhone) ผ่านลิงก์ Cloudflare + PIN · แจ้งเตือนเข้ามือถือพร้อมเสียง · 🖥️ เชื่อม Manager หลายเครื่องในบ้าน (เครื่องหลัก/เครื่องลูก)"
 }
