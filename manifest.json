@@ -1,6 +1,6 @@
 {
-  "version": "1.43.1",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.43.1.zip",
-  "sha256": "86d92e780dac430952a071a12969f5488aa1918e217627934e55ee2c7f4a28e4",
-  "notes": "Manager 1.43.1: Discord Rich Presence เลือกข้อมูลที่แสดง + ข้อความชวนเล่น + Application ID หลัก"
+  "version": "1.43.2",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.43.2.zip",
+  "sha256": "00048a9fe1732dbc551ac7e03624f164e729a4ef9a0a33248508d40932c3aa1f",
+  "notes": "Manager 1.43.2: กันเกมหยุดเมื่อหน้าต่างถูกบัง (โหมดแอป)"
 }
