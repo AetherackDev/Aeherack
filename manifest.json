@@ -1,6 +1,6 @@
 {
-  "version": "1.41.0",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.41.0.zip",
-  "sha256": "3a2102959d5c1bbb5c83653b3a3b7da364fe7b93c57f52466c7cfd162ca87608",
-  "notes": "Manager 1.41.0 / สคริปต์ 5.97.4: ปาร์ตี้ติดตามหัวหน้า + วาร์ปดินแดนรูน"
+  "version": "1.42.0",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.42.0.zip",
+  "sha256": "3fc2735bbcf4acc3dd53dcb75f45a5342d6e644a320d7e4bb161fea15687fe14",
+  "notes": "Manager 1.42.0 / สคริปต์ 5.97.5: ราคา Token เรียลไทม์"
 }
