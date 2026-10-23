@@ -1,6 +1,6 @@
 {
-  "version": "1.39.0",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.39.0.zip",
-  "sha256": "87c56203321c29432b942eb9e15cd0846757c6d9c3623d211ea0158e97206886",
-  "notes": "Manager 1.39.0: โหมดพื้นดำ + พร็อกซีหลายรูปแบบ"
+  "version": "1.40.0",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.40.0.zip",
+  "sha256": "0698176697aa6f56963ed8f4cd9890814b3b0b659cdc6bb62b95fa74d3d80438",
+  "notes": "Manager 1.40.0 / สคริปต์ 5.97.3: Converter ตามแมพ, ใส่แถบด่วน, จำ ID Login, กระจาย CH, Lv.110"
 }
