@@ -1,6 +1,6 @@
 {
-  "version": "1.36.0",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.36.0.zip",
-  "sha256": "671d165c4ff0bcf26f8b5016d42537d8f5798ec635d5847a8a81f89fc6a443ba",
-  "notes": "Manager 1.36.0 / สคริปต์ 5.97.0: แก้สถานะออนไลน์ + Config ตัวละคร (ส่งออก/นำเข้า/ย้าย)"
+  "version": "1.37.0",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.37.0.zip",
+  "sha256": "7e2508db7bd88e3750a0fcd8187556efdbdf59c470c1f4033b78288a9c4ef9a8",
+  "notes": "Manager 1.37.0 / สคริปต์ 5.97.1: จัดแถบปุ่ม, Logs, ดึงหน้าต่าง, สลับโปรไฟล์, เตือน Premium"
 }
