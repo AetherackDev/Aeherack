@@ -1,6 +1,6 @@
 {
-  "version": "1.40.0",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.40.0.zip",
-  "sha256": "0698176697aa6f56963ed8f4cd9890814b3b0b659cdc6bb62b95fa74d3d80438",
-  "notes": "Manager 1.40.0 / สคริปต์ 5.97.3: Converter ตามแมพ, ใส่แถบด่วน, จำ ID Login, กระจาย CH, Lv.110"
+  "version": "1.41.0",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.41.0.zip",
+  "sha256": "3a2102959d5c1bbb5c83653b3a3b7da364fe7b93c57f52466c7cfd162ca87608",
+  "notes": "Manager 1.41.0 / สคริปต์ 5.97.4: ปาร์ตี้ติดตามหัวหน้า + วาร์ปดินแดนรูน"
 }
