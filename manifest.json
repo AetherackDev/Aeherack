@@ -1,6 +1,6 @@
 {
-  "version": "1.46.0",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.46.0.zip",
-  "sha256": "aa00683f8648b7ca4d2e3f7d4aac618d21615e4411c07ee7a95aa0073517d4d8",
-  "notes": "🔔 บันทึกเหตุการณ์ (ตาย / Captcha / กลับแมพเดิมสำเร็จ ฯลฯ) ในหน้าบันทึกของ Manager · สคริปต์ 5.98.2"
+  "version": "1.46.1",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.46.1.zip",
+  "sha256": "a7f7c22bffcb520d6a89600d95d73103b53a001590397e54b631d096b75f99b0",
+  "notes": "🛡️ กัน Manager ล่ม + ตัวเฝ้าเปิดใหม่ให้เอง · ตัดไฟล์ manager.log ไม่ให้โตเกิน"
 }
