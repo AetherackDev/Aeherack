@@ -1,6 +1,6 @@
 {
-  "version": "1.43.8",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.43.8.zip",
-  "sha256": "93139b0954485992499ea90f5f013eec766eaaf078825fed40a35424fc434400",
-  "notes": "Manager 1.43.8 / สคริปต์ 5.97.9: ปุ่มปาร์ตี้อยู่กับที่ + CH แสดงเฉพาะตัวเลข"
+  "version": "1.44.0",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.44.0.zip",
+  "sha256": "15df931bd2b89c684777383871e1a7a3d722c2560434ea7af0d1e2f0efa91638",
+  "notes": "Manager 1.44.0 / สคริปต์ 5.98.0: รวมทีมข้ามแมพด้วย Butterfly + Alice, ปุ่มติดตามเปลี่ยนสีทันที"
 }
