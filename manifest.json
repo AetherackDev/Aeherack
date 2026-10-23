@@ -1,6 +1,6 @@
 {
-  "version": "1.45.2",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.45.2.zip",
-  "sha256": "e8d746ebfd16cba16c06d92b44f11f4936e9f5f6c98bcd7e27028e4a5f6c8647",
-  "notes": "📱 แป้นตัวเลขในหน้าล็อกอินมือถือ กดได้ทันที ครบหลักเข้าเอง"
+  "version": "1.45.3",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.45.3.zip",
+  "sha256": "8373d2457ff2672ad45e52a5bd955b578394f92615397bd63600c3c1bbad1b5d",
+  "notes": "⚙️ หน้าตั้งค่าใหม่ แบ่งหมวด มีเมนูด้านซ้าย การ์ดเป็นระเบียบ"
 }
