@@ -1,6 +1,6 @@
 {
-  "version": "1.45.1",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.45.1.zip",
-  "sha256": "c62c8e3108f35fc3d59745f9629b971753143151a8293f8c5a9745cd77b35e15",
-  "notes": "🖥️ แก้เครื่องลูกเชื่อมต่อไม่ได้ (รหัสเชื่อมต่อไม่ถูกต้อง) · สุ่มเลขเครื่องใหม่ถ้าซ้ำ · ปรับนาฬิกาต่างกันให้เอง"
+  "version": "1.45.2",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.45.2.zip",
+  "sha256": "e8d746ebfd16cba16c06d92b44f11f4936e9f5f6c98bcd7e27028e4a5f6c8647",
+  "notes": "📱 แป้นตัวเลขในหน้าล็อกอินมือถือ กดได้ทันที ครบหลักเข้าเอง"
 }
