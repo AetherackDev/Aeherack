@@ -1,6 +1,6 @@
 {
-  "version": "1.37.0",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.37.0.zip",
-  "sha256": "7e2508db7bd88e3750a0fcd8187556efdbdf59c470c1f4033b78288a9c4ef9a8",
-  "notes": "Manager 1.37.0 / สคริปต์ 5.97.1: จัดแถบปุ่ม, Logs, ดึงหน้าต่าง, สลับโปรไฟล์, เตือน Premium"
+  "version": "1.38.0",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.38.0.zip",
+  "sha256": "8bc8a61fba241a6857be18fa081b4accdd1f01cbe64d3cba229a9f2e242a05ff",
+  "notes": "Manager 1.38.0 / สคริปต์ 5.97.2: ระบบลูกธนูใหม่, NPC ผิดตัว, รีเฟรชอัตโนมัติ, แจ้งเตือน Discord"
 }
