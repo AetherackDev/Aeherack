@@ -1,6 +1,6 @@
 {
-  "version": "1.43.7",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.43.7.zip",
-  "sha256": "5dafd55b41f97b089297f8b631ae1bbb88160d1de632b1ca86574f2ec42a4a64",
-  "notes": "Manager 1.43.7 / สคริปต์ 5.97.8: ติดตามหัวหน้า — ยืนยันย้าย CH + วาร์ปไปหาหัวหน้าเมื่ออยู่คนละแมพ"
+  "version": "1.43.8",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.43.8.zip",
+  "sha256": "93139b0954485992499ea90f5f013eec766eaaf078825fed40a35424fc434400",
+  "notes": "Manager 1.43.8 / สคริปต์ 5.97.9: ปุ่มปาร์ตี้อยู่กับที่ + CH แสดงเฉพาะตัวเลข"
 }
