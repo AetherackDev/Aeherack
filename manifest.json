@@ -1,6 +1,6 @@
 {
-  "version": "1.38.0",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.38.0.zip",
-  "sha256": "8bc8a61fba241a6857be18fa081b4accdd1f01cbe64d3cba229a9f2e242a05ff",
-  "notes": "Manager 1.38.0 / สคริปต์ 5.97.2: ระบบลูกธนูใหม่, NPC ผิดตัว, รีเฟรชอัตโนมัติ, แจ้งเตือน Discord"
+  "version": "1.39.0",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.39.0.zip",
+  "sha256": "87c56203321c29432b942eb9e15cd0846757c6d9c3623d211ea0158e97206886",
+  "notes": "Manager 1.39.0: โหมดพื้นดำ + พร็อกซีหลายรูปแบบ"
 }
