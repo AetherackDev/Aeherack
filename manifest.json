@@ -1,6 +1,6 @@
 {
-  "version": "1.45.0",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.45.0.zip",
-  "sha256": "e5a8170effa9cec0dea747bdb1c7c8eb0c9bbdaa87c5f621f59ef482ce539604",
-  "notes": "📱 ใช้จากมือถือ (Android/iPhone) ผ่านลิงก์ Cloudflare + PIN · แจ้งเตือนเข้ามือถือพร้อมเสียง · 🖥️ เชื่อม Manager หลายเครื่องในบ้าน (เครื่องหลัก/เครื่องลูก)"
+  "version": "1.45.1",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.45.1.zip",
+  "sha256": "c62c8e3108f35fc3d59745f9629b971753143151a8293f8c5a9745cd77b35e15",
+  "notes": "🖥️ แก้เครื่องลูกเชื่อมต่อไม่ได้ (รหัสเชื่อมต่อไม่ถูกต้อง) · สุ่มเลขเครื่องใหม่ถ้าซ้ำ · ปรับนาฬิกาต่างกันให้เอง"
 }
