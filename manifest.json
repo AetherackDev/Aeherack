@@ -1,6 +1,6 @@
 {
-  "version": "1.46.3",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.46.3.zip",
-  "sha256": "32a945aab8d75f237c40b968ad1905b7630fa12823538b6cab3d07e1a42bd016",
-  "notes": "🛑 แลคแล้วโดนส่งกลับเมือง: หยุดเดินทันที + วาร์ปกลับแมพเดิมเลย · 📶 ใช้ Ping จากเกม · 🔒 ไม่ดัก WebSocket/fetch ของเกม · กันสคริปต์รันซ้อน · ล็อกรุ่น/ตรวจ hash cloudflared · QR ในตัว · ตรวจรุ่น Node.js · README ระบุการเชื่อมต่อออกนอกเครื่อง · สคริปต์ 5.98.3"
+  "version": "1.46.4",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.46.4.zip",
+  "sha256": "c0dd44c6dc44b6ea803bf297b8d5157bd824af769c46f74293e912d951804aec",
+  "notes": "📢 แจ้งเตือนประกาศจากทีมงาน ครั้งเดียวไม่ว่าเปิดกี่จอ · สคริปต์ 5.98.4"
 }
