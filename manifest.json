@@ -1,6 +1,6 @@
 {
-  "version": "1.46.5",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.46.5.zip",
-  "sha256": "592233d77066920a40321cd911a395382dff4bfe9eeb4392e51f54925f592ecc",
-  "notes": "🧪 ตรวจไฟล์เกมอัตโนมัติเมื่อเกมอัปเดต + เก็บไฟล์ไว้ส่งให้ Claude · สคริปต์ 5.98.5"
+  "version": "1.46.6",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.46.6.zip",
+  "sha256": "28f26383ec088d5be7b46b8d839cfe1564dc51e82058b4b9d0857edb85492d57",
+  "notes": "🪽 ลูกตี้ใช้ Fly Wing เข้าใกล้หัวหน้าก่อนเดินตาม · สคริปต์ 5.98.6"
 }
