@@ -1,6 +1,6 @@
 {
-  "version": "1.46.4",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.46.4.zip",
-  "sha256": "c0dd44c6dc44b6ea803bf297b8d5157bd824af769c46f74293e912d951804aec",
-  "notes": "📢 แจ้งเตือนประกาศจากทีมงาน ครั้งเดียวไม่ว่าเปิดกี่จอ · สคริปต์ 5.98.4"
+  "version": "1.46.5",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.46.5.zip",
+  "sha256": "592233d77066920a40321cd911a395382dff4bfe9eeb4392e51f54925f592ecc",
+  "notes": "🧪 ตรวจไฟล์เกมอัตโนมัติเมื่อเกมอัปเดต + เก็บไฟล์ไว้ส่งให้ Claude · สคริปต์ 5.98.5"
 }
