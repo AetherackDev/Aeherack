@@ -1,6 +1,6 @@
 {
-  "version": "1.47.1",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.47.1.zip",
-  "sha256": "9b5414ba41827fb15d0a19e56326ec1a136608effd47d902094bb1ff5ff7b071",
-  "notes": "ปุ่มซ่อน/แสดงหน้าจอเกมรายตัวใน Manager"
+  "version": "1.47.2",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.47.2.zip",
+  "sha256": "9c740c6b4a996b92ec2362a9a88adc37a7cf3a6caa238bdca789dc158343f785",
+  "notes": "ย่อ/ขยายหน้าสรุปจาก Manager"
 }
