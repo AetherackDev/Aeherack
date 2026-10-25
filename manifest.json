@@ -1,6 +1,6 @@
 {
-  "version": "1.46.6",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.46.6.zip",
-  "sha256": "28f26383ec088d5be7b46b8d839cfe1564dc51e82058b4b9d0857edb85492d57",
-  "notes": "🪽 ลูกตี้ใช้ Fly Wing เข้าใกล้หัวหน้าก่อนเดินตาม · สคริปต์ 5.98.6"
+  "version": "1.46.7",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.46.7.zip",
+  "sha256": "e76c0f1aa8d5c8912f5c7cbff36e908b01b95c1943bf326e1b0f20a361c1484a",
+  "notes": "⏳ ไม่ตรวจ/ไม่แจ้งเตือนระหว่างรอคิวเข้าเกม (แก้ Premium หมดผิด ๆ / ตรวจสุขภาพผิด) · สคริปต์ 5.98.7"
 }
