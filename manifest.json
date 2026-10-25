@@ -1,6 +1,6 @@
 {
-  "version": "1.47.0",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.47.0.zip",
-  "sha256": "ad1e30e181ad7cbd721cf3bfce53f66466215f7b7d746d4dd9296a1a0a3726c8",
-  "notes": "Dock ด้านข้าง + ปุ่มลัด Ctrl ขวา · แถบปิด 3D ปุ่มกลาง + Premium"
+  "version": "1.47.1",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.47.1.zip",
+  "sha256": "9b5414ba41827fb15d0a19e56326ec1a136608effd47d902094bb1ff5ff7b071",
+  "notes": "ปุ่มซ่อน/แสดงหน้าจอเกมรายตัวใน Manager"
 }
