@@ -1,6 +1,6 @@
 {
-  "version": "1.46.9",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.46.9.zip",
-  "sha256": "a43baf2cc63ecba2df11d8f332490115d49f1e1aee7751486e24796adbb4f193",
-  "notes": "🧭 แก้ชื่อทับปุ่มบนแถบหัวสคริปต์ · สคริปต์ 5.98.9"
+  "version": "1.47.0",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.47.0.zip",
+  "sha256": "ad1e30e181ad7cbd721cf3bfce53f66466215f7b7d746d4dd9296a1a0a3726c8",
+  "notes": "Dock ด้านข้าง + ปุ่มลัด Ctrl ขวา · แถบปิด 3D ปุ่มกลาง + Premium"
 }
