@@ -1,6 +1,6 @@
 {
-  "version": "1.46.7",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.46.7.zip",
-  "sha256": "e76c0f1aa8d5c8912f5c7cbff36e908b01b95c1943bf326e1b0f20a361c1484a",
-  "notes": "⏳ ไม่ตรวจ/ไม่แจ้งเตือนระหว่างรอคิวเข้าเกม (แก้ Premium หมดผิด ๆ / ตรวจสุขภาพผิด) · สคริปต์ 5.98.7"
+  "version": "1.46.8",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.46.8.zip",
+  "sha256": "83fecd697b110e05dbda5bb20a150f8f6d74d2286d02137f50a939321179513d",
+  "notes": "🙈 ซ่อนหน้าจอเกม (เหลือเมนู + แถบไอเทม) สคริปต์ยังอ่านค่าได้ · 🌙 ย่อหน้าปิดภาพ 3D · สคริปต์ 5.98.8"
 }
