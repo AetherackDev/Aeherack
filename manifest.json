@@ -1,6 +1,6 @@
 {
-  "version": "1.47.2",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.47.2.zip",
-  "sha256": "9c740c6b4a996b92ec2362a9a88adc37a7cf3a6caa238bdca789dc158343f785",
-  "notes": "ย่อ/ขยายหน้าสรุปจาก Manager"
+  "version": "1.47.3",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.47.3.zip",
+  "sha256": "5624a03cb904ad0ec5c9dd97edb249c6f87ffe8f1ab928fced0ce891f79890a0",
+  "notes": "เช็คผู้เล่น: ดึงหน้าต่าง/แถบแดง/นับถอยหลัง/บันทึกผล"
 }
