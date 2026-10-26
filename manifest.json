@@ -1,6 +1,6 @@
 {
-  "version": "1.47.4",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.47.4.zip",
-  "sha256": "d75853f4a7c77fb334fd244e950f7680de3086c3973548a875ef231c9c827e20",
-  "notes": "CH บน Dock/แถบย่อ + ย้าย CH เลือกได้"
+  "version": "1.47.5",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.47.5.zip",
+  "sha256": "0d6cdb6bcc7b9296f191c50b533ef5508b829683fbfbb37a94f87ede3df905c5",
+  "notes": "Rich Presence ข้อความเอง + เลื่อนวน"
 }
