@@ -1,6 +1,6 @@
 {
-  "version": "1.47.5",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.47.5.zip",
-  "sha256": "0d6cdb6bcc7b9296f191c50b533ef5508b829683fbfbb37a94f87ede3df905c5",
-  "notes": "Rich Presence ข้อความเอง + เลื่อนวน"
+  "version": "1.47.6",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.47.6.zip",
+  "sha256": "edb39d38bf5053651faa478d02dc3731b7e1835e758ca2e6ad0ed3caaf327a87",
+  "notes": "รีเฟรชเองเมื่อค้างหน้าเข้าเกม เชื่อมต่อเซิร์ฟเวอร์ไม่ได้"
 }
