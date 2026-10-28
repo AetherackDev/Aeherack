@@ -1,6 +1,6 @@
 {
-  "version": "1.48.2",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.48.2.zip",
-  "sha256": "37af986873fe8d80c4c3eb7fd2e05fa7253f3adf1831333e7419df9696cd35bc",
-  "notes": "โหลดไฟล์แมพใหม่ไม่ใช้แคชเก่า"
+  "version": "1.48.3",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.48.3.zip",
+  "sha256": "22dbe13c1ab789c9ce58c5133df167eaa2e9276bae57fab43e284e0f4b407e85",
+  "notes": "เวลาใช้ได้อีกของ Converter"
 }
