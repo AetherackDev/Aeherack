@@ -1,6 +1,6 @@
 {
-  "version": "1.47.7",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.47.7.zip",
-  "sha256": "d4e7fb5ab6ed24479a3a8f748f3a7bc4fe7e474be62de43274660b4f75ecbf38",
-  "notes": "ปุ่มเริ่มนับสถิติใหม่"
+  "version": "1.47.8",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.47.8.zip",
+  "sha256": "12c0c7af987320ac6f758a466cb3a5e47ac41520f55fc9673cba40977e1f9479",
+  "notes": "Manager เบาลง: RAM ค่าเดียวด้านบน"
 }
