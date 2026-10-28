@@ -1,6 +1,6 @@
 {
-  "version": "1.47.8",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.47.8.zip",
-  "sha256": "12c0c7af987320ac6f758a466cb3a5e47ac41520f55fc9673cba40977e1f9479",
-  "notes": "Manager เบาลง: RAM ค่าเดียวด้านบน"
+  "version": "1.47.9",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.47.9.zip",
+  "sha256": "766e4495cb203b8ddb83467c735c9994d183db30aee483b6ed8166ebb591d697",
+  "notes": "การ์ดตัวละครเลือกข้อมูลได้ + ซ่อนปุ่มเป้ามอน"
 }
