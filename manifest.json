@@ -1,6 +1,6 @@
 {
-  "version": "1.47.9",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.47.9.zip",
-  "sha256": "766e4495cb203b8ddb83467c735c9994d183db30aee483b6ed8166ebb591d697",
-  "notes": "การ์ดตัวละครเลือกข้อมูลได้ + ซ่อนปุ่มเป้ามอน"
+  "version": "1.48.0",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.48.0.zip",
+  "sha256": "f353e3c02dedce99d5bd358bf97f43f93808745b3606e259f4e69d4d717d4597",
+  "notes": "ปิดประกาศพร้อมติ๊กไม่ต้องแสดงอีกวันนี้"
 }
