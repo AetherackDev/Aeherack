@@ -1,6 +1,6 @@
 {
-  "version": "1.48.1",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.48.1.zip",
-  "sha256": "1bc841b8448d7f911ceab07015ac0f45220dbc2f0676452696698dc0e07317de",
-  "notes": "ข้าม CH ที่เซิร์ฟแน่น"
+  "version": "1.48.2",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.48.2.zip",
+  "sha256": "37af986873fe8d80c4c3eb7fd2e05fa7253f3adf1831333e7419df9696cd35bc",
+  "notes": "โหลดไฟล์แมพใหม่ไม่ใช้แคชเก่า"
 }
