@@ -1,6 +1,6 @@
 {
-  "version": "1.47.6",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.47.6.zip",
-  "sha256": "edb39d38bf5053651faa478d02dc3731b7e1835e758ca2e6ad0ed3caaf327a87",
-  "notes": "รีเฟรชเองเมื่อค้างหน้าเข้าเกม เชื่อมต่อเซิร์ฟเวอร์ไม่ได้"
+  "version": "1.47.7",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.47.7.zip",
+  "sha256": "d4e7fb5ab6ed24479a3a8f748f3a7bc4fe7e474be62de43274660b4f75ecbf38",
+  "notes": "ปุ่มเริ่มนับสถิติใหม่"
 }
