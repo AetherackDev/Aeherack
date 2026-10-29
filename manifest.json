@@ -1,6 +1,6 @@
 {
-  "version": "1.48.3",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.48.3.zip",
-  "sha256": "22dbe13c1ab789c9ce58c5133df167eaa2e9276bae57fab43e284e0f4b407e85",
-  "notes": "เวลาใช้ได้อีกของ Converter"
+  "version": "1.48.4",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.48.4.zip",
+  "sha256": "631b8e588b368453486d8851b2a4a708758a30f0a632238a7d0ca0bc96199920",
+  "notes": "ปิด 3D ไม่มีแถบสรุปเป็นค่าเริ่มต้น + ปุ่ม Config ใน Dock"
 }
