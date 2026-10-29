@@ -1,6 +1,6 @@
 {
-  "version": "1.48.4",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.48.4.zip",
-  "sha256": "631b8e588b368453486d8851b2a4a708758a30f0a632238a7d0ca0bc96199920",
-  "notes": "ปิด 3D ไม่มีแถบสรุปเป็นค่าเริ่มต้น + ปุ่ม Config ใน Dock"
+  "version": "1.48.5",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.48.5.zip",
+  "sha256": "56c0af4ca18e5be4202af0d7d41a6b9889e7b2eb7ab7a22f75fab16b87e536ca",
+  "notes": "หยุดวาดตัวช่วยโซนตอนมองไม่เห็น"
 }
