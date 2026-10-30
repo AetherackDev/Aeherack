@@ -1,6 +1,6 @@
 {
-  "version": "1.48.9",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.48.9.zip",
-  "sha256": "604494a7e5f5af4ae71378b4dcd9bfe9e3c50c10be96d2d71b0c80fa64a12ed3",
-  "notes": "ลดการเช็คโซนทุกวินาที"
+  "version": "1.49.0",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.49.0.zip",
+  "sha256": "3b0485f868bf219af1431cd47a92bf9bea693a7a266ffcf2d16fcaf90408cc90",
+  "notes": "แก้จอหยุดส่งข้อมูลให้ Manager"
 }
