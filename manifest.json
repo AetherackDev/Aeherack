@@ -1,6 +1,6 @@
 {
-  "version": "1.49.0",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.49.0.zip",
-  "sha256": "3b0485f868bf219af1431cd47a92bf9bea693a7a266ffcf2d16fcaf90408cc90",
-  "notes": "แก้จอหยุดส่งข้อมูลให้ Manager"
+  "version": "1.49.1",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.49.1.zip",
+  "sha256": "b831c8aab934fa4e1c4a3e5be8ffa50d7e8889fab4ac570bf5e48313fc99c4d8",
+  "notes": "หลังเกมอัปเดต: รีเฟรชถี่ขึ้น + แจ้งสถานะใน Manager"
 }
