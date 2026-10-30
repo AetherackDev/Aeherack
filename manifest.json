@@ -1,6 +1,6 @@
 {
-  "version": "1.48.6",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.48.6.zip",
-  "sha256": "665879dfd851f7a90712bc7d8be3d8badb0111f652767b535837b234bf494468",
-  "notes": "รับเกมอัปเดต 30 ต.ค."
+  "version": "1.48.7",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.48.7.zip",
+  "sha256": "c1e9646f117cebd129b593269b3535b41f13b0701c3e00398841c217ff7fe31e",
+  "notes": "เข้าเกมใหม่: พากลับโซนก่อนเปิด Auto"
 }
