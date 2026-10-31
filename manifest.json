@@ -1,6 +1,6 @@
 {
-  "version": "1.49.2",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.49.2.zip",
-  "sha256": "5523788e211b161b273a3130ecd73f87b3ffb1730a18a535630d23addc74c49b",
-  "notes": "จำกัด FPS ตอนปิด 3D"
+  "version": "1.49.3",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.49.3.zip",
+  "sha256": "03f21429c1a5264a405a38f7aed433a8ff6552b709419a6f525bef0ef00dc484",
+  "notes": "ตั้ง FPS ทุกจอจาก Manager + ซ่อนป้ายได้รับของ"
 }
