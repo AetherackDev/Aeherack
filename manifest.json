@@ -1,6 +1,6 @@
 {
-  "version": "1.49.4",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.49.4.zip",
-  "sha256": "e59573c86b85a7ac6076c28ff2fab373d5aaaaa688754daaeeb5486eb69b4a14",
-  "notes": "แสดง FPS จริง + เทียบ Z/ชม. ก่อนหลัง"
+  "version": "1.49.5",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.49.5.zip",
+  "sha256": "eeab3f71f2f7be4dc3b78ff25563c833b1d863b6c2958e8f581ad42e875335fc",
+  "notes": "ลูกธนู/ซองธนูธาตุแทน Converter"
 }
