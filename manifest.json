@@ -1,6 +1,6 @@
 {
-  "version": "1.49.3",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.49.3.zip",
-  "sha256": "03f21429c1a5264a405a38f7aed433a8ff6552b709419a6f525bef0ef00dc484",
-  "notes": "ตั้ง FPS ทุกจอจาก Manager + ซ่อนป้ายได้รับของ"
+  "version": "1.49.4",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.49.4.zip",
+  "sha256": "e59573c86b85a7ac6076c28ff2fab373d5aaaaa688754daaeeb5486eb69b4a14",
+  "notes": "แสดง FPS จริง + เทียบ Z/ชม. ก่อนหลัง"
 }
