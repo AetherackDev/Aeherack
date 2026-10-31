@@ -1,6 +1,6 @@
 {
-  "version": "1.49.1",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.49.1.zip",
-  "sha256": "b831c8aab934fa4e1c4a3e5be8ffa50d7e8889fab4ac570bf5e48313fc99c4d8",
-  "notes": "หลังเกมอัปเดต: รีเฟรชถี่ขึ้น + แจ้งสถานะใน Manager"
+  "version": "1.49.2",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.49.2.zip",
+  "sha256": "5523788e211b161b273a3130ecd73f87b3ffb1730a18a535630d23addc74c49b",
+  "notes": "จำกัด FPS ตอนปิด 3D"
 }
