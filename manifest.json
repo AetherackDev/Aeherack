@@ -1,6 +1,6 @@
 {
-  "version": "1.49.6",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.49.6.zip",
-  "sha256": "fcdd33814bb527653f2cd91f0253bdd1fe4bbcd39965c341f7963491c0905701",
-  "notes": "ซื้อ Converter จากตลาดกลางอัตโนมัติ"
+  "version": "1.49.7",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.49.7.zip",
+  "sha256": "0e7f3c8bc650646e1309ad8fc3c5e3ba7095f9a8e6cb4efbb5ca20a2c38b7b7d",
+  "notes": "ซื้อ Converter: เพดานราคารวมต่อรอบ"
 }
