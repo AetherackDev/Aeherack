@@ -1,6 +1,6 @@
 {
-  "version": "1.49.8",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.49.8.zip",
-  "sha256": "856903a33184d8713dce3c0c397ee74fd224ad904ea8dac57b381e597127cca7",
-  "notes": "ปุ่มซื้อ Converter รายโปรไฟล์"
+  "version": "1.49.9",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.49.9.zip",
+  "sha256": "e8ff61567852f16537bd4104a8583ecdfda7a79d5920336c040550371db64847",
+  "notes": "Wiki: คำอธิบายและค่าสถานะไอเทม"
 }
