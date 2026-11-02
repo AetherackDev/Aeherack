@@ -1,6 +1,6 @@
 {
-  "version": "1.49.9",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.49.9.zip",
-  "sha256": "e8ff61567852f16537bd4104a8583ecdfda7a79d5920336c040550371db64847",
-  "notes": "Wiki: คำอธิบายและค่าสถานะไอเทม"
+  "version": "1.50.0",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.50.0.zip",
+  "sha256": "f744b96300e56cf11af198e44913a9ed3f7c3462dd9ebd0b6426c23619be7bc7",
+  "notes": "บังคับปิด Chrome ที่ค้างหลังกดปิด"
 }
