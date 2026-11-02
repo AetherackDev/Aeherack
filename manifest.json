@@ -1,6 +1,6 @@
 {
-  "version": "1.50.2",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.50.2.zip",
-  "sha256": "d67712ff38584c073361a1b7513546f07133cc01e902648ad035d05b0ad4b309",
-  "notes": "กระเป๋าที่สคริปต์เปิดเองโปร่งใส"
+  "version": "1.50.3",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.50.3.zip",
+  "sha256": "558e7939d98db83264ebab85dd7206b6bde2134beae741da4291c0ede9c2870f",
+  "notes": "ถอดคืน VRAM (เกมนับเป็นแครช)"
 }
