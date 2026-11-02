@@ -1,6 +1,6 @@
 {
-  "version": "1.50.1",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.50.1.zip",
-  "sha256": "e57400738f3a29a2260be6726cbacf7f8ba0302dd2cc17033025521860c9caf6",
-  "notes": "คืน VRAM ตอนปิด 3D (Manager 1.50.1)"
+  "version": "1.50.2",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.50.2.zip",
+  "sha256": "d67712ff38584c073361a1b7513546f07133cc01e902648ad035d05b0ad4b309",
+  "notes": "กระเป๋าที่สคริปต์เปิดเองโปร่งใส"
 }
