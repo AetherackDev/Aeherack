@@ -1,6 +1,6 @@
 {
   "version": "1.50.0",
   "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.50.0.zip",
-  "sha256": "f744b96300e56cf11af198e44913a9ed3f7c3462dd9ebd0b6426c23619be7bc7",
-  "notes": "บังคับปิด Chrome ที่ค้างหลังกดปิด"
+  "sha256": "0387780094da6288f67239b1ca91fe5af6d9a8d053b645898b843f00802b9a54",
+  "notes": "คืน VRAM ตอนปิด 3D"
 }
