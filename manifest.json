@@ -1,6 +1,6 @@
 {
-  "version": "1.50.3",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.50.3.zip",
-  "sha256": "558e7939d98db83264ebab85dd7206b6bde2134beae741da4291c0ede9c2870f",
-  "notes": "ถอดคืน VRAM (เกมนับเป็นแครช)"
+  "version": "1.50.4",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.50.4.zip",
+  "sha256": "dc055f35a481f578f4335b2070ede248c04d0473e7cdf0a6ef7ff5bdc77fe27e",
+  "notes": "script 6.2.3: fix คุกใต้ดินรูน misdetected as jail map"
 }
