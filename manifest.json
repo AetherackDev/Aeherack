@@ -1,6 +1,6 @@
 {
-  "version": "1.50.4",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.50.4.zip",
-  "sha256": "dc055f35a481f578f4335b2070ede248c04d0473e7cdf0a6ef7ff5bdc77fe27e",
-  "notes": "script 6.2.3: fix คุกใต้ดินรูน misdetected as jail map"
+  "version": "1.50.5",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.50.5.zip",
+  "sha256": "dc8bf15d70963d244954ea66366acff9ae532cc3de05139d835e5a90b0eeed8b",
+  "notes": "script 6.2.4: stop ticking 'don't show today' on events window"
 }
