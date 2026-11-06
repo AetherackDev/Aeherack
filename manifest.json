@@ -1,6 +1,6 @@
 {
-  "version": "1.50.5",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.50.5.zip",
-  "sha256": "dc8bf15d70963d244954ea66366acff9ae532cc3de05139d835e5a90b0eeed8b",
-  "notes": "script 6.2.4: stop ticking 'don't show today' on events window"
+  "version": "1.50.6",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.50.6.zip",
+  "sha256": "eaf80dc5d0bb1ae2b808d8bea86d7becdef6430222830deca8c5cdc828657d93",
+  "notes": "script 6.2.5: don't override tab title during player check"
 }
