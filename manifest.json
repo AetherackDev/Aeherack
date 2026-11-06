@@ -1,6 +1,6 @@
 {
-  "version": "1.50.7",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.50.7.zip",
-  "sha256": "d45737f5477919b2a31f768fb5a944b20a255427e4527a5b22de953d0a211fba",
-  "notes": "manager 1.50.7: FPS 5 button"
+  "version": "1.50.8",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.50.8.zip",
+  "sha256": "ec8dab5dff8917cce5a94ebbec9c71364a83c68abe97798565a3d46f3a1235c6",
+  "notes": "script 6.2.6: level-banded channels labels"
 }
