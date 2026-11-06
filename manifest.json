@@ -1,6 +1,6 @@
 {
-  "version": "1.50.6",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.50.6.zip",
-  "sha256": "eaf80dc5d0bb1ae2b808d8bea86d7becdef6430222830deca8c5cdc828657d93",
-  "notes": "script 6.2.5: don't override tab title during player check"
+  "version": "1.50.7",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.50.7.zip",
+  "sha256": "d45737f5477919b2a31f768fb5a944b20a255427e4527a5b22de953d0a211fba",
+  "notes": "manager 1.50.7: FPS 5 button"
 }
