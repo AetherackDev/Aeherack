@@ -1,6 +1,6 @@
 {
-  "version": "1.50.8",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.50.8.zip",
-  "sha256": "ec8dab5dff8917cce5a94ebbec9c71364a83c68abe97798565a3d46f3a1235c6",
-  "notes": "script 6.2.6: level-banded channels labels"
+  "version": "1.50.9",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.50.9.zip",
+  "sha256": "715f7c9d10bc855405b591f28a2c7b9cea2eb4ef40560fdcf22ba6137682ae56",
+  "notes": "manager 1.50.9: auto-reload crashed/OOM game tabs"
 }
