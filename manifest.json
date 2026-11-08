@@ -1,6 +1,6 @@
 {
-  "version": "1.51.1",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.51.1.zip",
-  "sha256": "e9834533c3c41b86683bfd641c8ff993242ed44e73ee111b2e17119bcfef4768",
-  "notes": "script 6.2.7: ignore Alice guide dialog"
+  "version": "1.51.2",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.51.2.zip",
+  "sha256": "b425c292701520f4fe0bf07213833f542e108115558c4a7e6691b9f2e503274f",
+  "notes": "script 6.2.8: auto-dismiss Alice tutor"
 }
