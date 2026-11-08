@@ -1,6 +1,6 @@
 {
-  "version": "1.50.9",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.50.9.zip",
-  "sha256": "715f7c9d10bc855405b591f28a2c7b9cea2eb4ef40560fdcf22ba6137682ae56",
-  "notes": "manager 1.50.9: auto-reload crashed/OOM game tabs"
+  "version": "1.51.0",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.51.0.zip",
+  "sha256": "207640aff3ccfe9a8e1bf61c4d816755b5728f9514977cfbd211c841ee29a155",
+  "notes": "manager 1.51.0: periodic reload"
 }
