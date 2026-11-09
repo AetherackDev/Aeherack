@@ -1,6 +1,6 @@
 {
-  "version": "1.51.3",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.51.3.zip",
-  "sha256": "82c49f4a06e8c32f2179df035bf02bd5a28df91daf544fef250db3267446bc8f",
-  "notes": "manager 1.51.3: per-profile/per-character stats reset"
+  "version": "1.51.4",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.51.4.zip",
+  "sha256": "7f090c7cb641b6f7405e7a623e8c9b7a56b336e3b980732670e8d2ae18e807b6",
+  "notes": "script 6.2.9 / manager 1.51.4: clear Profit from Manager"
 }
