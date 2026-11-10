@@ -1,6 +1,6 @@
 {
-  "version": "1.51.6",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.51.6.zip",
-  "sha256": "bca8b6b1dd4135084eaf3b91887e6f48b50f0207d27596c9b75b4b351fb99005",
-  "notes": "script 6.3.1 / manager 1.51.6: auto-sell materials by weight"
+  "version": "1.51.7",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.51.7.zip",
+  "sha256": "b82fe6d865a74045de1aebfc2ff9eb40e47c8d6ae29fd3254829f3f67ee4c01a",
+  "notes": "manager 1.51.7: auto-sell toggle on character card"
 }
