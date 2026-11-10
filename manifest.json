@@ -1,6 +1,6 @@
 {
-  "version": "1.51.5",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.51.5.zip",
-  "sha256": "2645a9959b07ff2b864fb7e1d6444c9889a444afb597ef4966d9899c35cddf80",
-  "notes": "script 6.3.0 / manager 1.51.5: PK channel toggle"
+  "version": "1.51.6",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.51.6.zip",
+  "sha256": "bca8b6b1dd4135084eaf3b91887e6f48b50f0207d27596c9b75b4b351fb99005",
+  "notes": "script 6.3.1 / manager 1.51.6: auto-sell materials by weight"
 }
