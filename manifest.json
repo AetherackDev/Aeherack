@@ -1,6 +1,6 @@
 {
-  "version": "1.51.9",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.51.9.zip",
-  "sha256": "d63b4e2a8ee17b894dfba510c003ce9cccd64339951c346342243c580c1ee323",
-  "notes": "script 6.3.2: PK confirm fallback"
+  "version": "1.52.0",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.52.0.zip",
+  "sha256": "7826948841a4ed99bf1da946e5f18014fcf83d2bb03193d350417122c2757ab8",
+  "notes": "script 6.3.3: accept pkch/profitclear"
 }
