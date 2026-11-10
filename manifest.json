@@ -1,6 +1,6 @@
 {
-  "version": "1.51.4",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.51.4.zip",
-  "sha256": "7f090c7cb641b6f7405e7a623e8c9b7a56b336e3b980732670e8d2ae18e807b6",
-  "notes": "script 6.2.9 / manager 1.51.4: clear Profit from Manager"
+  "version": "1.51.5",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.51.5.zip",
+  "sha256": "2645a9959b07ff2b864fb7e1d6444c9889a444afb597ef4966d9899c35cddf80",
+  "notes": "script 6.3.0 / manager 1.51.5: PK channel toggle"
 }
