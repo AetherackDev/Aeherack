@@ -1,6 +1,6 @@
 {
-  "version": "1.51.8",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.51.8.zip",
-  "sha256": "3468c0b35db076ee9f26ec892f1e75ecdb116011a83f361bd578528b4562b241",
-  "notes": "manager 1.51.8: fix PK button"
+  "version": "1.51.9",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.51.9.zip",
+  "sha256": "d63b4e2a8ee17b894dfba510c003ce9cccd64339951c346342243c580c1ee323",
+  "notes": "script 6.3.2: PK confirm fallback"
 }
