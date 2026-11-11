@@ -1,6 +1,6 @@
 {
-  "version": "1.52.2",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.52.2.zip",
-  "sha256": "2d26b26e2d0f53dd4508f580f5dfcd99a386fc3c246b3cdb49002ebe62ec130f",
-  "notes": "script 6.3.5: rune dungeon map file + jail checks"
+  "version": "1.52.3",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.52.3.zip",
+  "sha256": "2458be996b79f1d41d03d0feb7c5d3ced17b4390a616e3c10e3225bfd5a6c836",
+  "notes": "script 6.3.6: warp-back only to warpable maps"
 }
