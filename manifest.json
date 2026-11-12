@@ -1,6 +1,6 @@
 {
-  "version": "1.52.3",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.52.3.zip",
-  "sha256": "2458be996b79f1d41d03d0feb7c5d3ced17b4390a616e3c10e3225bfd5a6c836",
-  "notes": "script 6.3.6: warp-back only to warpable maps"
+  "version": "1.52.4",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.52.4.zip",
+  "sha256": "7bc38c2d39b6ed803b88d7069f3fbd607aa0ea7941391fd2296c964b09266b90",
+  "notes": "manager 1.52.4: total profit bar"
 }
