@@ -1,6 +1,6 @@
 {
-  "version": "1.52.4",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.52.4.zip",
-  "sha256": "7bc38c2d39b6ed803b88d7069f3fbd607aa0ea7941391fd2296c964b09266b90",
-  "notes": "manager 1.52.4: total profit bar"
+  "version": "1.52.5",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.52.5.zip",
+  "sha256": "10a3f00acfa498dbbb68ea71a59775b3b26b79a875d74d36458e7cc98498d4ca",
+  "notes": "script 6.3.7: auto-sell in capital"
 }
