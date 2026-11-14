@@ -1,6 +1,6 @@
 {
-  "version": "1.52.6",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.52.6.zip",
-  "sha256": "1c96c86e1da2923219a8ae62506441afd3631866f073b6e380a2bdee7ea93bee",
-  "notes": "script 6.3.8: zeny drops + real-time z/hr"
+  "version": "1.52.7",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.52.7.zip",
+  "sha256": "8628f227cde3aeb0572f83d8bb13b53ad5b6fea951ae7374b709100eee20e209",
+  "notes": "script 6.3.9: alert when auto-sell cannot fix weight"
 }
