@@ -1,6 +1,6 @@
 {
-  "version": "1.52.9",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.52.9.zip",
-  "sha256": "3fbaf259efa7e19c8b3f28ca71d910c40775d841d916ffdf49cec0e407357221",
-  "notes": "script 6.4.1: show pause kind"
+  "version": "1.53.0",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.53.0.zip",
+  "sha256": "064e8f4d35cf36ce292569af34a60f115bbd5f7175a2d5ade145ef9413e87e09",
+  "notes": "script 6.4.2: isTyping only for text fields"
 }
