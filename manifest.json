@@ -1,6 +1,6 @@
 {
-  "version": "1.52.8",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.52.8.zip",
-  "sha256": "01f525ad1e728c06c226290b014254254c77f9a0d9a5ab493de1f996894be485",
-  "notes": "script 6.4.0: auto-sell status reason"
+  "version": "1.52.9",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.52.9.zip",
+  "sha256": "3fbaf259efa7e19c8b3f28ca71d910c40775d841d916ffdf49cec0e407357221",
+  "notes": "script 6.4.1: show pause kind"
 }
