@@ -1,6 +1,6 @@
 {
-  "version": "1.53.0",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.53.0.zip",
-  "sha256": "064e8f4d35cf36ce292569af34a60f115bbd5f7175a2d5ade145ef9413e87e09",
-  "notes": "script 6.4.2: isTyping only for text fields"
+  "version": "1.53.1",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.53.1.zip",
+  "sha256": "ccd380b3cb07d0ec0bb41f5d0343661071320b92a2bb99d9dc9734fa79deca25",
+  "notes": "script 6.4.3: dungeon sell + warp-back fallback"
 }
