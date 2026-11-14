@@ -1,6 +1,6 @@
 {
-  "version": "1.53.2",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.53.2.zip",
-  "sha256": "fc8a6e8f4d464b0935c5987d15dff933b967adf4c3121a9073f6da008a9a4208",
-  "notes": "script 6.4.4: warp-back fallback from Profit history"
+  "version": "1.53.3",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.53.3.zip",
+  "sha256": "516021064e0284fcf6f24fac1875c5012d48e6fd199a2ffc36339fd1ba64a371",
+  "notes": "script 6.4.5: dungeons are warpable"
 }
