@@ -1,6 +1,6 @@
 {
-  "version": "1.53.3",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.53.3.zip",
-  "sha256": "516021064e0284fcf6f24fac1875c5012d48e6fd199a2ffc36339fd1ba64a371",
-  "notes": "script 6.4.5: dungeons are warpable"
+  "version": "1.53.4",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.53.4.zip",
+  "sha256": "169e4f20067327122c62fcc491af5e00a8c11142d44d59d2e09dae301077ccbe",
+  "notes": "script 6.4.6: read atlas zones"
 }
