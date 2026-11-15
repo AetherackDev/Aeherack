@@ -1,6 +1,6 @@
 {
-  "version": "1.53.8",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.53.8.zip",
-  "sha256": "122ca13e2d244cb7006a65e5251f149a35cde42154b3d04428dfed9d8cba162c",
-  "notes": "script 6.4.9: log auto-before-walk"
+  "version": "1.53.9",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.53.9.zip",
+  "sha256": "acafadefcd02227121071c197ad40135e2a16001457874db75ac95465e6bbfff",
+  "notes": "Script 6.5.0 / Manager 1.53.9: walk-to-zone mode without Fly Wing (opt-in, mutually exclusive with Fly Wing zone search)"
 }
