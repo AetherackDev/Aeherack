@@ -1,6 +1,6 @@
 {
-  "version": "1.53.4",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.53.4.zip",
-  "sha256": "169e4f20067327122c62fcc491af5e00a8c11142d44d59d2e09dae301077ccbe",
-  "notes": "script 6.4.6: read atlas zones"
+  "version": "1.53.5",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.53.5.zip",
+  "sha256": "13a581985f5c1f11f2c99f089f51fd3adb5999d320551694e5be26a5ad134dab",
+  "notes": "script 6.4.7: fight while walking to zone"
 }
