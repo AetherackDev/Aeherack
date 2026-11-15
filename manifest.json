@@ -1,6 +1,6 @@
 {
-  "version": "1.53.6",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.53.6.zip",
-  "sha256": "7e08e53a6d21adacedc90016b23c5e2c42b1c665121bf13f90154cd5861122f2",
-  "notes": "script 6.4.8: keep Auto on while walking"
+  "version": "1.53.7",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.53.7.zip",
+  "sha256": "853b1cfbaa9062c8e7c769e1879a06b130cbedcd00f1c17070c1d5755a78e1b2",
+  "notes": "manager 1.53.7: rename walkFight label"
 }
