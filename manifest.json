@@ -1,6 +1,6 @@
 {
-  "version": "1.53.7",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.53.7.zip",
-  "sha256": "853b1cfbaa9062c8e7c769e1879a06b130cbedcd00f1c17070c1d5755a78e1b2",
-  "notes": "manager 1.53.7: rename walkFight label"
+  "version": "1.53.8",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.53.8.zip",
+  "sha256": "122ca13e2d244cb7006a65e5251f149a35cde42154b3d04428dfed9d8cba162c",
+  "notes": "script 6.4.9: log auto-before-walk"
 }
