@@ -1,6 +1,6 @@
 {
-  "version": "1.53.5",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.53.5.zip",
-  "sha256": "13a581985f5c1f11f2c99f089f51fd3adb5999d320551694e5be26a5ad134dab",
-  "notes": "script 6.4.7: fight while walking to zone"
+  "version": "1.53.6",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.53.6.zip",
+  "sha256": "7e08e53a6d21adacedc90016b23c5e2c42b1c665121bf13f90154cd5861122f2",
+  "notes": "script 6.4.8: keep Auto on while walking"
 }
