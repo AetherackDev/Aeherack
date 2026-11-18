@@ -1,6 +1,6 @@
 {
-  "version": "1.54.0",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.54.0.zip",
-  "sha256": "c728c69770a58b5ebd8cf6bacde303835c8f8f0512679bbf7c7ec12aec2d4d30",
-  "notes": "Script 6.5.1 / Manager 1.54.0: GM chat alert only for whispers and nearby chat, not world chat"
+  "version": "1.54.1",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.54.1.zip",
+  "sha256": "6e53d0f5f433627ffc2e40dc057c7d52a64eb64ffbd3c5c180e1123b7278e59e",
+  "notes": "Script 6.5.2 / Manager 1.54.1: junk system supports Craft items"
 }
