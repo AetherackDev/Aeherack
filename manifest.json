@@ -1,6 +1,6 @@
 {
-  "version": "1.53.9",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.53.9.zip",
-  "sha256": "acafadefcd02227121071c197ad40135e2a16001457874db75ac95465e6bbfff",
-  "notes": "Script 6.5.0 / Manager 1.53.9: walk-to-zone mode without Fly Wing (opt-in, mutually exclusive with Fly Wing zone search)"
+  "version": "1.54.0",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.54.0.zip",
+  "sha256": "c728c69770a58b5ebd8cf6bacde303835c8f8f0512679bbf7c7ec12aec2d4d30",
+  "notes": "Script 6.5.1 / Manager 1.54.0: GM chat alert only for whispers and nearby chat, not world chat"
 }
