@@ -1,6 +1,6 @@
 {
-  "version": "1.54.2",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.54.2.zip",
-  "sha256": "04b492c516d06ced4c71f2214f7bf72f98e0a3c6a184f4e5d7217a71364a6cfd",
-  "notes": "Manager 1.54.2: Discord presence can show total z/hr and current map"
+  "version": "1.54.3",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.54.3.zip",
+  "sha256": "ac38ba72d0a3236786d49157120f2e5649843490f09ffed40973a13ddb418f26",
+  "notes": "Manager 1.54.3: Discord presence total includes linked machines"
 }
