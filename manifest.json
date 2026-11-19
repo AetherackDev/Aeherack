@@ -1,6 +1,6 @@
 {
-  "version": "1.54.4",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.54.4.zip",
-  "sha256": "e4ebc9912b8d3bf2fcc9f9cd8a22e8ea6b61bf9dae8ee1226fbb09cbf0385955",
-  "notes": "Script 6.5.3 / Manager 1.54.4: read money in the new \u00c6 unit"
+  "version": "1.54.5",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.54.5.zip",
+  "sha256": "95564cd6f6b25c3f4a55bf1061696766ce10278a2cff00039fcde9539637cc18",
+  "notes": "Script 6.5.4 / Manager 1.54.5: show money in \u00c6 everywhere"
 }
