@@ -1,6 +1,6 @@
 {
-  "version": "1.54.3",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.54.3.zip",
-  "sha256": "ac38ba72d0a3236786d49157120f2e5649843490f09ffed40973a13ddb418f26",
-  "notes": "Manager 1.54.3: Discord presence total includes linked machines"
+  "version": "1.54.4",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.54.4.zip",
+  "sha256": "e4ebc9912b8d3bf2fcc9f9cd8a22e8ea6b61bf9dae8ee1226fbb09cbf0385955",
+  "notes": "Script 6.5.3 / Manager 1.54.4: read money in the new \u00c6 unit"
 }
