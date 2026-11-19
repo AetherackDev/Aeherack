@@ -1,6 +1,6 @@
 {
-  "version": "1.54.1",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.54.1.zip",
-  "sha256": "6e53d0f5f433627ffc2e40dc057c7d52a64eb64ffbd3c5c180e1123b7278e59e",
-  "notes": "Script 6.5.2 / Manager 1.54.1: junk system supports Craft items"
+  "version": "1.54.2",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.54.2.zip",
+  "sha256": "04b492c516d06ced4c71f2214f7bf72f98e0a3c6a184f4e5d7217a71364a6cfd",
+  "notes": "Manager 1.54.2: Discord presence can show total z/hr and current map"
 }
