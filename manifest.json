@@ -1,6 +1,6 @@
 {
-  "version": "1.54.6",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.54.6.zip",
-  "sha256": "6133dcca0e7571828b41feb728cf55ece6e2af433f3f8b730ec58531dab45ae1",
-  "notes": "Script 6.5.5 / Manager 1.54.6: automatic reads no longer open the game's auto settings"
+  "version": "1.54.7",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.54.7.zip",
+  "sha256": "290b1e0e725d7d57c51a80dc51a3671c5f08d8dc17c9a6b107ab9d1212385615",
+  "notes": "Script 6.5.6 / Manager 1.54.7: read decimal bag weight"
 }
