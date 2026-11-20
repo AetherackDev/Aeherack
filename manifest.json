@@ -1,6 +1,6 @@
 {
-  "version": "1.54.5",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.54.5.zip",
-  "sha256": "95564cd6f6b25c3f4a55bf1061696766ce10278a2cff00039fcde9539637cc18",
-  "notes": "Script 6.5.4 / Manager 1.54.5: show money in \u00c6 everywhere"
+  "version": "1.54.6",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.54.6.zip",
+  "sha256": "6133dcca0e7571828b41feb728cf55ece6e2af433f3f8b730ec58531dab45ae1",
+  "notes": "Script 6.5.5 / Manager 1.54.6: automatic reads no longer open the game's auto settings"
 }
