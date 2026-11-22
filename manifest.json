@@ -1,6 +1,6 @@
 {
-  "version": "1.54.7",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.54.7.zip",
-  "sha256": "290b1e0e725d7d57c51a80dc51a3671c5f08d8dc17c9a6b107ab9d1212385615",
-  "notes": "Script 6.5.6 / Manager 1.54.7: read decimal bag weight"
+  "version": "1.54.8",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.54.8.zip",
+  "sha256": "499f683a65519f21327483de0671f1c859d55628aa95fdf1eb86fd6bd3d01edc",
+  "notes": "Script 6.5.7 / Manager 1.54.8: warp to floors of multi-floor dungeons"
 }
