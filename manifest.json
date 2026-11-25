@@ -1,6 +1,6 @@
 {
-  "version": "1.54.8",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.54.8.zip",
-  "sha256": "499f683a65519f21327483de0671f1c859d55628aa95fdf1eb86fd6bd3d01edc",
-  "notes": "Script 6.5.7 / Manager 1.54.8: warp to floors of multi-floor dungeons"
+  "version": "1.54.9",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.54.9.zip",
+  "sha256": "2a78fe940ae79271f224ce1ae8b585390c14e5989ad486ba5ca9f4e6c30dd8a4",
+  "notes": "Script 6.5.8 / Manager 1.54.9: leave town sub-maps and warp back to the farm map"
 }
