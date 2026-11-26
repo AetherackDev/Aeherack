@@ -1,6 +1,6 @@
 {
-  "version": "1.55.0",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.55.0.zip",
-  "sha256": "d1fb9655b0feec2aa69dbafb4d30c7a073f6c54549160a34c4d12b9d296f212c",
-  "notes": "Script 6.5.9 / Manager 1.55.0: hide other players' outfits on every window"
+  "version": "1.55.1",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.55.1.zip",
+  "sha256": "79977ebf9c5fdb00d0523402d35af926795982dd945e31870904d0fe118ec48a",
+  "notes": "Script 6.6.0 / Manager 1.55.1: warp into world 3"
 }
