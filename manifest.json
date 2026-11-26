@@ -1,6 +1,6 @@
 {
-  "version": "1.54.9",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.54.9.zip",
-  "sha256": "2a78fe940ae79271f224ce1ae8b585390c14e5989ad486ba5ca9f4e6c30dd8a4",
-  "notes": "Script 6.5.8 / Manager 1.54.9: leave town sub-maps and warp back to the farm map"
+  "version": "1.55.0",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.55.0.zip",
+  "sha256": "d1fb9655b0feec2aa69dbafb4d30c7a073f6c54549160a34c4d12b9d296f212c",
+  "notes": "Script 6.5.9 / Manager 1.55.0: hide other players' outfits on every window"
 }
