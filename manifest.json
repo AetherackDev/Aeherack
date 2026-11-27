@@ -1,6 +1,6 @@
 {
-  "version": "1.55.1",
-  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.55.1.zip",
-  "sha256": "79977ebf9c5fdb00d0523402d35af926795982dd945e31870904d0fe118ec48a",
-  "notes": "Script 6.6.0 / Manager 1.55.1: warp into world 3"
+  "version": "1.55.2",
+  "url": "https://raw.githubusercontent.com/AetherackDev/Aeherack/main/releases/aetherack-manager-1.55.2.zip",
+  "sha256": "51c29bac2995fbf0fd4e9051ca963917dbad4d5c3090013260abdc3a4ae34498",
+  "notes": "Manager 1.55.2: show profit in baht from a user-set rate"
 }
